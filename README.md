@@ -172,12 +172,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the ISC License.
 
-## Author
-
-**Ismat Samadov**
-
-- GitHub: [@Ismat-Samadov](https://github.com/Ismat-Samadov)
-
 ## Acknowledgments
 
 - Built with [Next.js](https://nextjs.org/)
